@@ -1,0 +1,9 @@
+{
+    "name" : "Calendar",
+    "description" : "Generate Calendar using native PHP Code",
+    "autoload": {
+        "psr-4": {
+            "Calendar\\": "src/"
+        }
+    }
+}
